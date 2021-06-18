@@ -1,0 +1,5 @@
+
+]
+java:S1128"BRemove this unused import 'org.openqa.selenium.support.ui.Select'.(´—âÛøÿÿÿÿ
+•
+java:S1845T"zRename method "itemsAmountInCart" to prevent any misunderstanding/clash with field "itemsAmountInCart" defined on line 29.(¡²ÿÿÿÿÿ
